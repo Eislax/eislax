@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/muhammad-rafi-ilham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryo_martin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rrafilham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martin_shit" height="30" width="40" /></a>
+<a href="linkedin.com/in/muhammad-rafi-ilham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-rafi-ilham" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rrafilham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rrafilham" height="30" width="40" /></a>
 </p>
 
 ## 🔥 Github Stats
