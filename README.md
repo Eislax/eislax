@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-<!--
-**Eislax/Eislax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
 - 🔭 I’m currently working on research on my university
 - 🌱 I’m currently learning how to become a data scientist, machine learning and webdev
 - 📫 How to reach me: https://www.linkedin.com/in/muhammad-rafi-ilham
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/muhammad-rafi-ilham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-rafi-ilham" height="30" width="40" /></a>
+<a href="linkedin.com/in/muhammad-rafi-ilham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi_linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rrafilham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rrafilham" height="30" width="40" /></a>
 </p>
 
