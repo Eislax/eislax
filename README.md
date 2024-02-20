@@ -12,7 +12,7 @@
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://i.pinimg.com/564x/d3/bc/b1/d3bcb1b98b35077d971e5daa9b417ccc.jpg"/>
+<img align="right" width="38%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtvM3g4MHNpd3JiaGc5NDluYXc0aWhnN3djOXl6MHJzbWZ5N2RldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zGmtpy40J3c7z97rq0/giphy.gif"/>
 
   <a href="https://github.com/Eislax"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=Eislax&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/Eislax"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=Eislax&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
