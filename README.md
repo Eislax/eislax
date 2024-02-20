@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/muhammad-rafi-ilham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi_linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/rrafilham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rrafilham" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-rafi-ilham-4b30b522b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rafi_linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rrafilham/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rrafilham" height="30" width="40" /></a>
 </p>
 
 ## 🔥 Github Stats
