@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on research on my university
-- 🌱 I’m currently learning data scientist path, machine learning and front-end path
+- 🔭 I’m currently working on research on my university (wish me luck)
+- 🌱 Have interest at data scientist path, data analysis, AI/ML/DL/Computer Vision, front-end path, also UI/UX too
 - 📫 How to reach me: https://www.linkedin.com/in/muhammad-rafi-ilham
 
 <h3 align="left">Connect with me:</h3>
