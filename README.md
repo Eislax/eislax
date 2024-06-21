@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on research on my university (wish me luck)
+- 🔭 I’m currently working on research on my university
 - 🌱 Have interest at data scientist path, data analysis, AI/ML/DL/Computer Vision, front-end path, also UI/UX too
 - 📫 How to reach me: https://www.linkedin.com/in/muhammad-rafi-ilham
 
